@@ -2,4 +2,4 @@
 
 Methods for paper are in ... methods.ipynb
 
-More dcoumentation to come.
+More documentation to come.
